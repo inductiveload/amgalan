@@ -1,0 +1,7 @@
+#ifndef AMGALAN_CONFIG__H
+#define AMGALAN_CONFIG__H
+
+// the configured options and settings for Amgalan
+#define AMGALAN_VERSION "@AMGALAN_VERSION@"
+
+#endif
